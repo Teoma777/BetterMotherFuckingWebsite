@@ -1,1 +1,7 @@
-		alert( "Hey le site xxxvidsxxx est trop bien. Viens dessus stp please");
+function spam() {
+	alert( "Hey le site xxxvidsxxx est trop bien. Viens dessus stp please");
+
+}		
+
+setTimeout (spam, 10000)
+
